@@ -23,6 +23,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ertugrulgurkan&show_icons=true)   
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ertugrulgurkan)  
-
 ![Profile views](https://gpvc.arturio.dev/ertugrulgurkan)  
