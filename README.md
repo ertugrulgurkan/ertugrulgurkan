@@ -11,6 +11,6 @@
 <a href="https://www.hackerrank.com/ertugrulgurkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ertugrulgurkan" height="30" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ertugrulgurkan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ertugrulgurkan)](https://github.com/anuraghazra/github-readme-stats) [GitHub stats](https://github-readme-stats.vercel.app/api?username=ertugrulgurkan&show_icons=true) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ertugrulgurkan&show_icons=true) [Profile views](https://gpvc.arturio.dev/ertugrulgurkan)  
+![Profile views](https://gpvc.arturio.dev/ertugrulgurkan)  
